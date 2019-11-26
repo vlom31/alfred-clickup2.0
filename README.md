@@ -11,3 +11,9 @@ Download the Alfred-ClickUp2.0.alfredworkflow file and double-click it.
 apiToken : token you will find in your profile settings > Apps on ClickUp 2.0
 
 list : this will be the id of the list you want the tasks to be added to, it's in the list url, the last digits after /
+
+# usage :
+
+Type "cu" followed by a space, then enter the string for your task.
+
+Example : cu buy some milk
